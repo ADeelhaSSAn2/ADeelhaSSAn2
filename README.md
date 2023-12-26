@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mobile Application and Website Development.
 - 💞️ I’m looking to collaborate on Software House.
 - 📫 How to reach me ..
-- Email: adeelhassan9025@gmail.com
+- Email: adeelhassan9025@gmail.com adeelhassan35033@gmail.com
 - Linkedin: Adeel Hasan
 - Mobile: +923342417223
 
