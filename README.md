@@ -5,7 +5,7 @@
 - 📫 How to reach me ..
 - Email: adeelhassan9025@gmail.com adeelhassan35033@gmail.com
 - Linkedin: Adeel Hasan
-- Mobile: +923342417223
+- Mobile: +923162131606
 
 <!---
 ADeelhaSSAn2/ADeelhaSSAn2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
