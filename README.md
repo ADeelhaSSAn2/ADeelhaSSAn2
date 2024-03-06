@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.linkedin.com/in/adeel-hasan-028024250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ADeelhaSSAn2" height="30" width="40" /></a>
 <a href="https://www.facebook.com/adeelhassan.prince?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Adeel Hassan" height="30" width="40" /></a>
-
+<a href="https://www.instagram.com/invites/contact/?i=lxja9aat9l6m&utm_content=4f94pf7" target="blank"><img align="center" src="![alt text](image.png)" alt="Adeel Hassan" height="30" width="40" /></a>
 
 </p>
