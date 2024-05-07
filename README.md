@@ -20,6 +20,10 @@ ADeelhaSSAn2/ADeelhaSSAn2 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ADeelhaSSAn2" alt="ADeelhaSSAn2" /></a> </p>
+<h1 align="left">🌟 My Status :</h1>
+
+###
 <div align="center">
 	
 [![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
