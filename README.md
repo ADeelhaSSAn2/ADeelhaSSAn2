@@ -5,13 +5,19 @@
 
 
 <img align="right" height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
-src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
+
 🌱 I’m currently learning ** HTML, CSS, BOOTSTRAP, JavaScript,**
+
 - 👋 Hi, I’m ADeelhaSSAn2
+
 - 👀 I’m interested in Coding
+
 - 🌱 I’m currently learning Mobile Application and Website Development.
+
 - 💞️ I’m looking to collaborate on Software House.
+
 - 📫 How to reach me ..
+
 - Email: adeelhassan9025@gmail.com adeelhassan35033@gmail.com
 - Linkedin: Adeel Hasan
 - Mobile: +923162131606
