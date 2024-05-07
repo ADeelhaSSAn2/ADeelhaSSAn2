@@ -1,3 +1,6 @@
+<img width="100%" min-width="100%" height="220px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<h1 align="center">Hi 👋, I'm Adeel Hassan</h1>
+<h3 align="center">A Passionate Frontend Developer</h3>
 - 👋 Hi, I’m ADeelhaSSAn2
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Mobile Application and Website Development.
