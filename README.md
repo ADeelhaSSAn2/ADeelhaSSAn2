@@ -1,9 +1,8 @@
 <img width="100%" min-width="100%" height="220px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <h1 align="center">Hi 👋, I'm Adeel Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
-<img align="right" height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
 
-<img align="right" alt="Coding" width="370" style="border-radius:1em !important;"
+<img align="right" height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
 src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 🌱 I’m currently learning ** HTML, CSS, BOOTSTRAP, JavaScript,**
 - 👋 Hi, I’m ADeelhaSSAn2
