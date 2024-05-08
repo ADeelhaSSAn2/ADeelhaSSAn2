@@ -8,8 +8,6 @@
 
 🌱 I’m currently learning ** HTML, CSS, BOOTSTRAP, JavaScript,**
 
-- 👋 Hi, I’m ADeelhaSSAn2
-
 - 👀 I’m interested in Coding
 
 - 🌱 I’m currently learning Mobile Application and Website Development.
